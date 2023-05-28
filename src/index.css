@@ -1,0 +1,16 @@
+/*
+#121212 - background-color
+5 - padding left n right
+14 - padding top n bottom 
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
